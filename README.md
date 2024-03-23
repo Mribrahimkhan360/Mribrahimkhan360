@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1t12Ogk_L25iZPEjYtKnXxX9jPJqIV8rz/view?usp=sharing](https://drive.google.com/file/d/1t12Ogk_L25iZPEjYtKnXxX9jPJqIV8rz/view?usp=sharing)
 
-- ⚡ Fun fact **T think I am funny boy.**
+- ⚡ Fun fact **I think I am funny boy.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
