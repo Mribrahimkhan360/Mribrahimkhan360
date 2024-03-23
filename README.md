@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mribrahimkhan360" alt="mribrahimkhan360" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ibrahim58336495" target="blank"><img src="https://img.shields.io/twitter/follow/@ibrahim58336495?logo=twitter&style=for-the-badge" alt="@ibrahim58336495" /></a> </p>
-
+<img src="assets/mini-banner-1.gif">
 - 🔭 I’m currently working on [Cpp Competitive Programming for Beginners](https://github.com/Mribrahimkhan360/cpp-competitive-programming-for-beginners)
 
 - 🌱 I’m currently learning **Laravel**
