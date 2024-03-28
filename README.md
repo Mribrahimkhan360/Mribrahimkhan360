@@ -2,10 +2,6 @@
 <h1 align="center">Web Design & Development Using Laravel & Vue</h1>
 <h3 align="center">A passionate frontend & backend developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mribrahimkhan360&label=Profile%20views&color=0e75b6&style=flat" alt="mribrahimkhan360" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mribrahimkhan360" alt="mribrahimkhan360" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@ibrahim58336495" target="blank"><img src="https://img.shields.io/twitter/follow/@ibrahim58336495?logo=twitter&style=for-the-badge" alt="@ibrahim58336495" /></a> </p>
 
 - 🔭 I’m currently working on [Cpp Competitive Programming for Beginners](https://github.com/Mribrahimkhan360/cpp-competitive-programming-for-beginners)
