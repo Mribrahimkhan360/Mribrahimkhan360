@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [https://mribrahimk.blogspot.com](https://mribrahimk.blogspot.com)
 
-- 💬 Ask me about **Vue js**
+- 💬 Ask me about **Laravel & Vue**
 
 - 📫 How to reach me **mribrahimkhan360@gmail.com**
 
