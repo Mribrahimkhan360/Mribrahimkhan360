@@ -1,5 +1,5 @@
 <img src="assets/banner-1.gif">
-<h1 align="center">Hi 👋, I'm Ibrahim Khan</h1>
+<h1 align="center">Web Design & Development Using Laravel & Vue</h1>
 <h3 align="center">A passionate frontend & backend developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mribrahimkhan360&label=Profile%20views&color=0e75b6&style=flat" alt="mribrahimkhan360" /> </p>
