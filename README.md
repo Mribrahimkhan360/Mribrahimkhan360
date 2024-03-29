@@ -1,4 +1,4 @@
-<img src="assets/banner-1.gif">
+<img src="assets/laravel-vue.jpg">
 <h1 align="center">Web Design & Development Using Laravel & Vue</h1>
 <h3 align="center">A passionate frontend & backend developer from Bangladesh.</h3>
 
