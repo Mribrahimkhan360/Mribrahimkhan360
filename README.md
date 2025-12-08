@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ibrahim58336495" target="blank"><img src="https://img.shields.io/twitter/follow/@ibrahim58336495?logo=twitter&style=for-the-badge" alt="@ibrahim58336495" /></a> </p>
 
-- 🔭 I’m currently working on [Cpp Competitive Programming for Beginners](https://github.com/Mribrahimkhan360/cpp-competitive-programming-for-beginners)
+- 🔭 I’m currently working on [Paikaree.com.bd](https://paikaree.com.bd/)
 
 - 🌱 I’m currently learning **Laravel**
 
@@ -15,6 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mribrahimkhan360](https://github.com/Mribrahimkhan360)
 
 - 📝 I regularly write articles on [https://mribrahimk.blogspot.com](https://mribrahimk.blogspot.com)
+- 🔭 I was working on [Cpp Competitive Programming for Beginners](https://github.com/Mribrahimkhan360/cpp-competitive-programming-for-beginners)
 
 - 💬 Ask me about **Laravel & Vue**
 
