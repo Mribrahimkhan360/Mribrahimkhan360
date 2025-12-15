@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mribrahimkhan360@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RMpa03KGFZ9H_MUFFtZ446F4vlPlN79dFbDFEOP3hqw/edit?usp=sharing](CV Download)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RMpa03KGFZ9H_MUFFtZ446F4vlPlN79dFbDFEOP3hqw/edit?usp=sharing">CV Download</a>
 
 - ⚡ Fun fact **I think I am funny boy.**
 
