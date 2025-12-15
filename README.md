@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Resturent HTML CSS JS](https://github.com/Mribrahimkhan360/CoResturent)
 
-- 🤝 I’m looking for help with [E-commerce Laravel](https://github.com/Mribrahimkhan360/ecom-batch4)
+- 🤝 I’m looking for help with [E-commerce Laravel](https://github.com//ecom-batch4)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mribrahimkhan360](https://github.com/Mribrahimkhan360)
 
@@ -60,7 +60,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mribrahimkhan360&show_icons=true&locale=en&layout=compact" alt="mribrahimkhan360" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mribrahimkhan360&show_icons=true&locale=en" alt="mribrahimkhan360" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mribrahimkhan360&show_icons=true&locale=en" alt="mribrahimkhan360" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mribrahimkhan360&" alt="mribrahimkhan360" /></p>
 
