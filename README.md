@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mribrahimkhan360@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t12Ogk_L25iZPEjYtKnXxX9jPJqIV8rz/view?usp=sharing](https://drive.google.com/file/d/1t12Ogk_L25iZPEjYtKnXxX9jPJqIV8rz/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1RMpa03KGFZ9H_MUFFtZ446F4vlPlN79dFbDFEOP3hqw/edit?usp=sharing](https://docs.google.com/document/d/1RMpa03KGFZ9H_MUFFtZ446F4vlPlN79dFbDFEOP3hqw/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny boy.**
 
