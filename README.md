@@ -1,5 +1,5 @@
 <img src="assets/laravel-vue.jpg">
-<h1 align="center">Web Design & Development Using Laravel & Vue</h1>
+<h1 align="center">Web Design & Development Using Laravel & React</h1>
 <h3 align="center">A passionate frontend & backend developer from Bangladesh.</h3>
 
 <p align="left"> <a href="https://twitter.com/@ibrahim58336495" target="blank"><img src="https://img.shields.io/twitter/follow/@ibrahim58336495?logo=twitter&style=for-the-badge" alt="@ibrahim58336495" /></a> </p>
