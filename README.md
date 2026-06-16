@@ -4,8 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ibrahim58336495" target="blank"><img src="https://img.shields.io/twitter/follow/@ibrahim58336495?logo=twitter&style=for-the-badge" alt="@ibrahim58336495" /></a> </p>
 
-- 🔭 I’m currently working [synergy interface ltd](https://synergyinterface.com/web/)
--  I was worked on [Paikaree.com.bd](https://paikaree.com.bd/)
+-  🔭 I’m currently working on [Paikaree.com.bd](https://paikaree.com.bd/)
 
 - 🌱 I’m currently learning **Laravel**
 
